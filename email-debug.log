@@ -1,0 +1,33 @@
+[2026-07-05T05:17:58.021Z] Received email request: type=order-confirmation, customerEmail=789aarav321@gmail.com
+[2026-07-05T05:17:58.022Z] Attempting SMTP email sending
+[2026-07-05T05:18:05.217Z] SMTP email sent successfully
+[2026-07-05T05:30:46.722Z] Received email request: type=order-confirmation, customerEmail=789bablu123@gmail.com
+[2026-07-05T05:30:46.724Z] Attempting SMTP email sending
+[2026-07-05T05:30:52.040Z] SMTP email sent successfully
+[2026-07-05T05:34:01.121Z] Received email request: type=order-status-update, customerEmail=789bablu123@gmail.com
+[2026-07-05T05:34:01.122Z] Attempting SMTP email sending
+[2026-07-05T05:34:03.363Z] Received email request: type=order-status-update, customerEmail=789aarav321@gmail.com
+[2026-07-05T05:34:03.363Z] Attempting SMTP email sending
+[2026-07-05T05:34:05.963Z] Received email request: type=order-status-update, customerEmail=789aarav321@gmail.com
+[2026-07-05T05:34:05.981Z] Attempting SMTP email sending
+[2026-07-05T05:34:06.514Z] SMTP email sent successfully
+[2026-07-05T05:34:08.214Z] SMTP email sent successfully
+[2026-07-05T05:34:08.541Z] Received email request: type=order-status-update, customerEmail=789aarav321@gmail.com
+[2026-07-05T05:34:08.542Z] Attempting SMTP email sending
+[2026-07-05T05:34:10.824Z] SMTP email sent successfully
+[2026-07-05T05:34:11.995Z] Received email request: type=order-status-update, customerEmail=789aarav321@gmail.com
+[2026-07-05T05:34:11.996Z] Attempting SMTP email sending
+[2026-07-05T05:34:13.644Z] SMTP email sent successfully
+[2026-07-05T05:34:17.091Z] SMTP email sent successfully
+[2026-07-05T05:34:17.213Z] Received email request: type=order-status-update, customerEmail=789aarav123@gmail.com
+[2026-07-05T05:34:17.214Z] Attempting SMTP email sending
+[2026-07-05T05:34:19.747Z] Received email request: type=order-status-update, customerEmail=789aarav123@gmail.com
+[2026-07-05T05:34:19.747Z] Attempting SMTP email sending
+[2026-07-05T05:34:21.969Z] Received email request: type=order-status-update, customerEmail=789aarav123@gmail.com
+[2026-07-05T05:34:21.970Z] Attempting SMTP email sending
+[2026-07-05T05:34:22.001Z] SMTP email sent successfully
+[2026-07-05T05:34:24.638Z] SMTP email sent successfully
+[2026-07-05T05:34:25.394Z] Received email request: type=order-status-update, customerEmail=789aarav123@gmail.com
+[2026-07-05T05:34:25.399Z] Attempting SMTP email sending
+[2026-07-05T05:34:27.022Z] SMTP email sent successfully
+[2026-07-05T05:34:30.038Z] SMTP email sent successfully
