@@ -113,7 +113,7 @@ export async function POST(request: NextRequest) {
           ` : ''}
 
           <div style="text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee;">
-            <a href="${process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'}/account/orders"
+            <a href="${process.env.NEXT_PUBLIC_APP_URL || 'rzzy-red.vercel.app'}/account/orders"
                style="display: inline-block; background: #111; color: #fff; text-decoration: none; padding: 12px 28px; border-radius: 12px; font-size: 14px; font-weight: 500;">
               Track My Order
             </a>
